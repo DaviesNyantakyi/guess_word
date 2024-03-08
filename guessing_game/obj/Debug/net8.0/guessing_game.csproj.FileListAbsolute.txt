@@ -12,3 +12,4 @@ C:\Users\Davies\Desktop\2024\Programming\C#\guessing_game\guessing_game\obj\Debu
 C:\Users\Davies\Desktop\2024\Programming\C#\guessing_game\guessing_game\obj\Debug\net8.0\guessing_game.pdb
 C:\Users\Davies\Desktop\2024\Programming\C#\guessing_game\guessing_game\obj\Debug\net8.0\guessing_game.genruntimeconfig.cache
 C:\Users\Davies\Desktop\2024\Programming\C#\guessing_game\guessing_game\obj\Debug\net8.0\ref\guessing_game.dll
+C:\Users\Davies\Desktop\2024\Programming\C#\guessing_game\guessing_game\obj\Debug\net8.0\guessing_game.sourcelink.json
